@@ -2,7 +2,7 @@
 
 
 
-Olá me chamo Jéssica, sou estudante de ciência da computação, estou atualmente no 5° semestre do curso pela facudade UNIFCVEST, tenho amplo conhecimento em analise de sistemas, trabalhando na área a exatos 3 anos, além disso será um prazer compartilhar alguns dos meus projetos por aqui!
+Olá me chamo Jéssica, sou estudante de ciência da computação, será um prazer compartilhar alguns dos meus projetos por aqui!
 
 ---
 
